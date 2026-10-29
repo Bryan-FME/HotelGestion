@@ -1,0 +1,28 @@
+# Maven
+target/
+
+# Archivos compilados
+*.class
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# NetBeans - configuracion privada
+nbproject/private/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
